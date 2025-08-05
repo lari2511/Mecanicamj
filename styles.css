@@ -396,6 +396,27 @@ footer img {
   vertical-align: middle;
   margin: 0 10px; /* Adiciona um espaçamento entre os ícones */
 }
+/* Estilos para o rodapé */
+footer {
+  text-align: center;
+  padding: 20px 0;
+  display: flex;
+  flex-direction: column; /* Faz com que os itens fiquem um embaixo do outro */
+  justify-content: center;
+  align-items: center;
+  gap: 10px; /* Adiciona um espaço de 10px entre os itens do rodapé */
+}
+
+/* Estilos para os ícones sociais */
+.social-icons {
+  display: flex; /* Faz com que os ícones fiquem um ao lado do outro */
+  gap: 10px; /* Adiciona um espaço de 10px entre os ícones */
+}
+
+.social-icon {
+  width: 32px;
+  height: 32px;
+}
 
 
 
