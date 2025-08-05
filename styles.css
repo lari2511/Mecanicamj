@@ -23,7 +23,7 @@ body {
 
 .fundo-inicio {
   position: relative;
-  background-image: url('img/WhatsApp Image 2025-07-15 at 20.00.51.jpeg');
+  background-image: url('fundo.jpeg');
   background-size: cover;
   background-position: center;
   min-height: 100vh;
