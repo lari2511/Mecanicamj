@@ -389,7 +389,13 @@ footer img {
   height: 32px;
   margin-top: 14px;
 }
-
+/* Estilos para os ícones sociais no rodapé */
+.social-icon {
+  width: 32px; /* Define a largura para um tamanho padrão */
+  height: auto; /* Mantém a proporção da imagem */
+  vertical-align: middle;
+  margin: 0 10px; /* Adiciona um espaçamento entre os ícones */
+}
 
 
 
