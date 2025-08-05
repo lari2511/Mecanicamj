@@ -22,7 +22,7 @@ body {
 
 .fundo-inicio {
   position: relative;
-  background-image: url('fundo.jpeg');
+  background-image: url('img/fundo.jpeg');
   background-size: cover;
   background-position: center;
   min-height: 100vh;
