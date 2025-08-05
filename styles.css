@@ -159,7 +159,7 @@ nav a:hover {
   width: 250px;
   transition: transform 0.3s, box-shadow 0.3s;
 }
-}
+
 
 #servicos .produto p {
   font-size: 1em;
@@ -224,7 +224,7 @@ nav a:hover {
 /* Fundo com imagem para produtos */
 .produtos-fundo {
   position: relative;
-  background-image: url('img/WhatsApp Image 2025-07-15 at 20.00.51.jpeg');
+  background-image: url('img/fundo.jpeg');
   background-size: contain;
   background-position: center center;
   min-height: 100vh;
@@ -365,5 +365,5 @@ footer img {
   background: #27ae60;
 }
 
-}
+
 
